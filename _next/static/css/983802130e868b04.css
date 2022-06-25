@@ -1,0 +1,33 @@
+@font-face{
+    font-family:Circular;
+    src:url(/_next/static/media/Circular-Book.3686fad7.woff2) 
+    format("font-woff2"),url(/_next/static/media/Circular-Book.23a73840.woff) format("font-woff");
+    font-weight:400;
+    font-style:normal;
+    font-display:swap;
+}
+@font-face{
+    font-family:Circular;src:url(/_next/static/media/Circular-Bold.bdfaf61c.woff2) format("font-woff2"),url(/_next/static/media/Circular-Bold.5308ee3c.woff) format("font-woff");
+    font-weight:700;
+    font-style:normal;
+    font-display:swap;
+}
+@font-face{font-family:Circular;src:url(/_next/static/media/Circular-Medium.c8269e4d.woff2) format("font-woff2"),url(/_next/static/media/Circular-Medium.63cf6236.woff) format("font-woff");font-weight:500;font-style:normal;font-display:swap}#__next,html{min-height:100%;height:100%}body{height:100%;overflow-x:hidden}#__next{display:flex;flex-direction:column}footer,header{flex:0 0 auto}main{flex:1 0 auto}body,html{font-weight:400;font-style:normal;line-height:normal;font-family:Circular,sans-serif;color:#191b20}*,body,html{padding:0;margin:0}*{outline:none;box-sizing:border-box;-webkit-appearance:none;letter-spacing:-.03em}img{max-width:100%;height:auto}img,img.align-self{align-self:center}input::-webkit-inner-spin-button,input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}ul{list-style:none}input,textarea{font-family:Circular,sans-serif;width:100%;border:none}form{position:relative}a{cursor:pointer;text-decoration:none;color:#191b20;transition:all .3s ease-in-out}a:active{transition:all .1s ease-in-out!important}a:hover,button{transition:all .3s ease-in-out}button{width:100%;display:flex;align-items:center;justify-content:center;text-align:center;margin:0;border:none;cursor:pointer;font-family:Circular,sans-serif;background:transparent;color:#191b20}
+button:active{
+    transition:all .1s ease-in-out!important;
+}
+button:hover{
+    transition:all .3s ease-in-out;
+}
+::-webkit-input-placeholder{
+    color:#b0b3c2;
+}
+:-moz-placeholder,::-moz-placeholder{
+    color:#b0b3c2;
+}
+:-ms-input-placeholder{
+    color:#b0b3c2;
+}
+main{
+    margin-top:90px;
+}
